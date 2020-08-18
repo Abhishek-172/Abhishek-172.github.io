@@ -6,23 +6,9 @@
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
 		<script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
 		<meta name="viewport" content="width=device-width",initial-scale=1>
-		<meta name="viewport" content="width=small",initial-scale=1>
 	</head>
 	<body>
 		<header id="header-body">
-			
-	<!-- 		<nav>
-				<ul class="horizontal-lists text-center nav-menu" style="margin-top: 15px;">
-					<li><a href="#Home"> Home </a></li>
-					<li><a href="#about"> About </a></li>
-					<li><a href="#skills"> Skills </a></li>
-					<li><a href="#experience"> Experience </a></li>
-					<li><a href="#certifications"> Certifications </a></li>
-					<li><a href="#portfolio"> Portfolio </a></li>
-					<li><a href="#contact"> Contact </a></li>
-				</ul>			
-			</nav>
-	 -->
 			<div id="name-social-container">
 				<div class="text-center">
 					<h1 id="MyName">Abhishek Pandey</h1>
